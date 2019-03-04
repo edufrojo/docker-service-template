@@ -16,19 +16,13 @@ Descargar repositorio:
 git clone https://github.com/edufrojo/docker-service-template.git
 ```
 
-Instalar dependencias:
+Desplegar con "docker-compose":
 
 ```sh
-npm install
+docker-compose up
 ```
 
-Arrancar servidor:
-
-```sh
-npm run start
-```
-
-Acceder a través del navegador a `localhost:8080`
+Acceder a través del navegador a `localhost:4000`
 
 ## Licencia
 
